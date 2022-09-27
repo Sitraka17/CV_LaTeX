@@ -28,7 +28,7 @@ Also, if you have a premium subscription to Overleaf, you can use Overleaf's Git
 
 ## Detailed Instructions..
 
-[.. are available here](https://github.com/jitinnair1/autoCV/wiki/How-to-use-autoCV:-Detailed-Instructions)
+[.. are available here](https://github.com/Sitraka17/CV_LaTeX)
 
 ## Issues
 Please start a new discussion or issue if you encounter problems
