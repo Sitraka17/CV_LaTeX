@@ -1,7 +1,7 @@
 # autoCV
 
 A clean CV template in LaTeX along with a GitHub action that complies the `*.tex` file and publishes a new PDF version when new changes are pushed to the repo
-
+This is just the version I, Sitraka, tries haha. 
 ## Template Design
 
 The template is designed to be clean with sections for
