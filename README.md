@@ -22,7 +22,7 @@ Now, once your site is published, your CV will be accessible at: https://usernam
 
 ## This template on Overleaf
 
-<a href="(https://www.overleaf.com/read/rpgjvmfgpmxv)"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141.svg?style=for-the-badge&logo=Overleaf&logoColor=white"/></a>
+<a href="[https://www.overleaf.com/read/rpgjvmfgpmxv]"><img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141.svg?style=for-the-badge&logo=Overleaf&logoColor=white"/></a>
 
 Also, if you have a premium subscription to Overleaf, you can use Overleaf's GitHub integration to push changes to your GitHub repo directly from Overleaf.
 
